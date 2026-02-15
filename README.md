@@ -1,2 +1,7 @@
-# GSDT
-Editor de juegos con panel centralizado: integra tus assets y datos personalizados con plantillas predefinidas, generando automáticamente una lógica de juego coherente y correlativa.
+# GameSense Developer Tools
+
+Copyright (c) 2026 José Aracil Ramírez, released under the [MIT license](https://opensource.org/licenses/MIT).
+
+Itch.io: [Sigue el proyecto]()
+Discord: [Únete al proyecto]()
+
