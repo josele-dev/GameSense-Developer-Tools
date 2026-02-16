@@ -1,7 +1,7 @@
 # Pautas de contribución
 
 
-**Español**
+**Español** *
 
 ¡Gracias por tu interés en contribuir a **GameSense Developer Tools**! Este documento describe cómo puedes colaborar con el proyecto.
 
