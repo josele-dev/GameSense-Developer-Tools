@@ -1,5 +1,6 @@
 # Pautas de contribución
 
+
 **Español**
 
 ¡Gracias por tu interés en contribuir a **GameSense Developer Tools**! Este documento describe cómo puedes colaborar con el proyecto.
@@ -57,6 +58,7 @@ Me tomo el tiempo de revisar tu Pull Request y comentarlo. Puedo sugerir cambios
 ***Contacto***
 
 Si tienes dudas sobre cómo contribuir, puedes abrir un issue o contactar a los colaboradores oficiales del proyecto.
+
 
 **English**
 
@@ -116,6 +118,5 @@ I take the time to review your pull request and comment on it. I can suggest cha
 
 If you have questions about how to contribute, you can open an issue or contact the project's official collaborators.
 
+
 **Català**
-
-
