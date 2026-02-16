@@ -42,7 +42,7 @@ Me tomo el tiempo de revisar tu Pull Request y comentarlo. Puedo sugerir cambios
 
 - Escribe mensajes de commit claros y significativos.
 
-- Mantén tu PR focalizado en un solo cambio o funcionalidad.
+- Mantén tu Pull Request focalizado en un solo cambio o funcionalidad.
 
 - Sigue el estilo de código existente del proyecto.
 
