@@ -8,7 +8,11 @@ Discord: [Únete](https://discord.com/invite/tGAtuGtVXn)
 
 YouTube: [Avances](https://www.youtube.com/@GSDT-j1f)
 
-GameSense es una herramienta que actúa como editor modular para diseñar, validar y prototipar sistemas de juego y niveles. Permite crear juegos a partir de temas de plantilla reutilizables, combinadas con recursos y datos del usuario. También ayuda a construir versiones preliminares sin grandes demoras. Si quieres saber más,[visita la web](https://josele-dev.github.io/gsdtdev.github.io/) 
+GameSense es una herramienta que actúa como editor modular para diseñar, validar y prototipar sistemas de juego y niveles. Permite crear juegos a partir de temas de plantilla reutilizables, combinadas con recursos y datos del usuario. También ayuda a construir versiones preliminares sin grandes demoras. Si quieres saber más,[visita la web](https://josele-dev.github.io/gsdtdev.github.io/)
+
+![](HRZ-LGO-LRG-MCH-L.png)
+
+![](level-es-ES.png)
 
 Se construyó como aplicación de Electron y con Python para la memoria interna del editor. Sin embargo, se va a rehacer desde cero y va a convertirse en una extensión para integrar con los motores Godot Engine y Unreal Engine, y como componente de ChronoCrash Modders Tools para trabajar con OpenBOR.
 
