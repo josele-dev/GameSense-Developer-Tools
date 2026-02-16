@@ -34,11 +34,11 @@ git commit -m "Añade función para exportar datos de usuario
 git push origin mi-nueva-funcionalidad
 ```
 
-6. Abre un pull request desde tu fork hacia el repositorio principal.
+6. Abre un Pull Request desde tu fork hacia el repositorio principal.
 
-Me tomo el tiempo de revisar tu pull request y comentarlo. Podemos mantener un diálogo crítico y sugerir cambios, mejoras o alternativas que mejor encajen con el proyecto.
+Me tomo el tiempo de revisar tu Pull Request y comentarlo. Puedo sugerir cambios, mejoras o alternativas que mejor encajen con el proyecto.
 
-***Consejos para aumentar la probabilidad de que tu pull request sea aceptado***
+***Consejos para aumentar la probabilidad de que tu Pull Request sea aceptado***
 
 - Escribe mensajes de commit claros y significativos.
 
@@ -50,7 +50,7 @@ Me tomo el tiempo de revisar tu pull request y comentarlo. Podemos mantener un d
 
 ***Código y pruebas***
 
-- Antes de enviar tu pull request, prueba tu código para asegurarte de que no rompa funcionalidades existentes.
+- Antes de enviar tu Pull Request, prueba tu código para asegurarte de que no rompa funcionalidades existentes.
 
 - Si agregas nuevas funcionalidades, incluye pruebas o ejemplos cuando sea posible.
 
