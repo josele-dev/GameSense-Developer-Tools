@@ -16,7 +16,9 @@
 
 2. Crea una nueva rama para tus cambios. Ejemplo:
 
+```bash
 git checkout -b mi-nueva-funcionalidad
+```
 
 3. Realiza tus cambios en esa rama.
 
