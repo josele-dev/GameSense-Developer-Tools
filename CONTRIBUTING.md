@@ -23,8 +23,9 @@ git checkout -b mi-nueva-funcionalidad
 4. Commit con mensajes claros y descriptivos. Ejemplo:
 
 ```bash
-git commit -m "Añade función para exportar datos de usuario"
+git commit -m "Añade función para exportar datos de usuario
 ```
+
 5. Haz push a tu fork:
 
 git push origin mi-nueva-funcionalidad
