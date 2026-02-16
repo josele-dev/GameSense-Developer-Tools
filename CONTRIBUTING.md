@@ -119,3 +119,62 @@ If you have questions about how to contribute, you can open an issue or contact 
 
 
 **Català**
+
+Gràcies pel teu interès a contribuir a **GameSense Developer Tools** ! Aquest document descriu com pots col·laborar amb el projecte.
+
+***Project Access***
+
+1 . L'accés al ZIP amb els fitxers del projecte i als contribuïdors oficials està restringit.
+
+2 . Si desitges contribuir puntualment, pots crear un fork i enviar una pull request.
+
+***Com contribuir mitjançant Pull Requests?***
+
+1 . Fes un fork del repositori.
+
+2 . Crea una nova branca per als teus canvis. Exemple:
+
+```bash
+
+git checkout -b mi-nueva-funcionalidad
+
+
+```
+
+3 . Realitza els teus canvis en aquesta branca.
+
+4 . Commit amb missatges clars i descriptius. Exemple:
+
+```bash
+
+git commit -m "Afegeix funció per exportar dades d'usuari"
+
+```
+
+5 . Fes push al teu fork:
+
+```bash
+
+git push origin mi-nueva-funcionalidad
+
+```
+
+6 . Obre una pull request des del teu fork cap al repositori principal.
+
+Em prendré el temps de revisar la teva pull request i comentar-la. Puc suggerir canvis, millores o alternatives que encaixin millor amb el projecte.
+
+***Consells per augmentar la probabilitat que la teva pull request sigui acceptada***
+
+- Escriu missatges de commit clars i significatius.
+- Mantén la teva Pull Request focalitzada en un sol canvi o funcionalitat.
+- Segueix l'estil de codi existent del projecte.
+- Assegura't que el teu codi estigui provat i funcioni correctament.
+
+***Codi i proves***
+
+- Abans d'enviar la teva Pull Request, prova el teu codi per assegurar-te que no trenqui funcionalitats existents.
+- Si afegeixes noves funcionalitats, inclou proves o exemples quan sigui possible.
+
+***Contacte***
+
+Si tens dubtes sobre com contribuir, pots obrir un issue o contactar amb els col·laboradors oficials del projecte.
