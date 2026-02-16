@@ -30,7 +30,7 @@ GameSense is a tool that works as a modular editor for designing, validating, an
 
 It was built as an Electron app, with Python handling the editor’s internal memory. However, it will be rebuilt from scratch and will become an extension designed to integrate with the Godot Engine and Unreal Engine, as well as a component of ChronoCrash Modders Tools for working with OpenBOR.
 
-# Català
+**Català**
 
 Copyright (c) 2026 José Aracil Ramírez, released under the MIT license
 
