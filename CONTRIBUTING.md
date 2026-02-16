@@ -28,7 +28,9 @@ git commit -m "Añade función para exportar datos de usuario
 
 5. Haz push a tu fork:
 
+```bash
 git push origin mi-nueva-funcionalidad
+```
 
 6. Abre un pull request desde tu fork hacia el repositorio principal.
 
