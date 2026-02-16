@@ -2,7 +2,7 @@
 
 Copyright (c) 2026 José Aracil Ramírez, released under the [MIT license](https://opensource.org/licenses/MIT).
 
-![](HRZ-LGO-LRG-MCH-L.png)
+![](media/logo.png)
 
 **Español**
 
