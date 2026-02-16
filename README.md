@@ -1,10 +1,10 @@
 # GameSense Developer Tools 
 
-**Español**
-
 Copyright (c) 2026 José Aracil Ramírez, released under the [MIT license](https://opensource.org/licenses/MIT).
 
 ![](HRZ-LGO-LRG-MCH-L.png)
+
+**Español**
 
 Itch.io: [Sígueme](https://josele-dev.itch.io/gsdt)
 
