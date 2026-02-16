@@ -4,7 +4,7 @@ Copyright (c) 2026 José Aracil Ramírez, released under the [MIT license](https
 
 ![](media/logo.png)
 
-**Español**
+## 𝖤𝖲
 
 Itch.io: [Sígueme](https://josele-dev.itch.io/gsdt)
 
@@ -16,7 +16,7 @@ GameSense es una herramienta que actúa como editor modular para diseñar, valid
 
 Se construyó como aplicación de Electron y con Python para la memoria interna del editor. Sin embargo, se va a rehacer desde cero y va a convertirse en una extensión para integrar con los motores Godot Engine y Unreal Engine, y como componente de ChronoCrash Modders Tools para trabajar con OpenBOR.
 
-**English**
+## 𝖦𝖡
 
 Itch.io: [Follow me](https://josele-dev.itch.io/gsdt)
 
@@ -28,7 +28,7 @@ GameSense is a tool that works as a modular editor for designing, validating, an
 
 It was built as an Electron app, with Python handling the editor’s internal memory. However, it will be rebuilt from scratch and will become an extension designed to integrate with the Godot Engine and Unreal Engine, as well as a component of ChronoCrash Modders Tools for working with OpenBOR.
 
-**Català**
+## 𝖢𝖠
 
 Itch.io: [Segueix-me](https://josele-dev.itch.io/gsdt)
 
