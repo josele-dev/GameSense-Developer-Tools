@@ -60,6 +60,62 @@ Si tienes dudas sobre cómo contribuir, puedes abrir un issue o contactar a los 
 
 **English**
 
+¡Gracias por tu interés en contribuir a **GameSense Developer Tools**! Este documento describe cómo puedes colaborar con el proyecto.
+
+***Project Access***
+
+1. Access to the ZIP with the project files and to official contributors is restricted.
+
+2. If you wish to contribute occasionally, you can create a fork and submit a pull request.
+
+***How to contribute via Pull Requests?***
+
+1. Fork the repository.
+
+2. Create a new branch for your changes. Example:
+
+```bash
+git checkout -b mi-nueva-funcionalidad
+```
+
+3. Make your changes in that branch
+
+4. Commit with clear and descriptive messages. Example:
+
+```bash
+git commit -m "Añade función para exportar datos de usuario
+```
+
+5. Push to your fork:
+
+```bash
+git push origin mi-nueva-funcionalidad
+```
+
+6. Open a pull request from your fork to the main repository
+   
+I take the time to review your pull request and comment on it. I can suggest changes, improvements, or alternatives that best fit the project.
+
+***Tips to increase the probability of your pull request being accepted***
+
+- Write clear and meaningful commit messages.
+
+- Keep your Pull Request focused on a single change or feature.
+
+- Follow the existing code style of the project.
+
+- Ensure that your code is tested and works correctly.
+
+***Code and testing***
+
+- Before submitting your Pull Request, test your code to ensure it doesn't break existing functionality.
+
+- If you add new features, include tests or examples whenever possible.
+
+***Contact***
+
+If you have questions about how to contribute, you can open an issue or contact the project's official collaborators.
+
 **Català**
 
 
