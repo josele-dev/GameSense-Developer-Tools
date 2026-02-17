@@ -6,7 +6,7 @@
 
 ***Acceso al proyecto***
 
-1. El acceso al ZIP con los archivos del proyecto y a los contribuidores oficiales está restringido a los colaboradores del repositorio.
+1. El acceso al ZIP con los archivos del proyecto está restringido. A partir de las versiones posteriores a la fase alfa, la plataforma será de acceso libre para el público en general. Por el momento, se encuentra protegida mediante contraseña, y la concesión de permisos se limitará a sesiones técnicas y a presentaciones en eventos regionales y locales de la Comunidad de Madrid.
 
 2. Si deseas contribuir puntualmente, puedes crear un fork y enviar un pull request.
 
@@ -65,7 +65,7 @@ Si tienes dudas sobre cómo contribuir, puedes abrir un issue o contactar a los 
 
 ***Project Access***
 
-1. Access to the ZIP with the project files and to official contributors is restricted.
+1. Access to the ZIP archive containing the project files is restricted. From the versions released after the alpha phase onwards, the platform will be openly accessible to the general public. For the time being, it is password-protected, and permissions will be granted exclusively within the framework of technical sessions and presentations at regional and local events across the Community of Madrid.
 
 2. If you wish to contribute occasionally, you can create a fork and submit a pull request.
 
@@ -124,7 +124,7 @@ Gràcies pel teu interès a contribuir a **GameSense Developer Tools** ! Aquest 
 
 ***Project Access***
 
-1 . L'accés al ZIP amb els fitxers del projecte i als contribuïdors oficials està restringit.
+1 . L’accés a l’arxiu ZIP amb els fitxers del projecte està restringit. A partir de les versions posteriors a la fase alfa, la plataforma serà d’accés obert per al públic en general. De moment, es troba protegida mitjançant contrasenya, i la concessió de permisos es limitarà exclusivament a sessions tècniques i presentacions en esdeveniments regionals i locals de la Comunitat de Madrid.
 
 2 . Si desitges contribuir puntualment, pots crear un fork i enviar una pull request.
 
